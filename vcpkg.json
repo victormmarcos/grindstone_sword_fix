@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "name": "grindstone-sword-fix",
+  "dependencies": [
+    "directxtk",
+    "rapidcsv",
+    "spdlog"
+  ]
+}

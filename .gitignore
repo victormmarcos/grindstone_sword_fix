@@ -1,0 +1,16 @@
+# Build output
+/build/
+*.pdb
+*.log
+*.tmp
+
+# Release archives (published on Nexus, not in the repository)
+*.zip
+
+# Editor and local CMake settings
+.vs/
+.vscode/
+CMakeUserPresets.json
+
+# Local-only tools, never published
+/local/
